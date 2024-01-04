@@ -1,0 +1,7 @@
+a{
+    display: flex;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
